@@ -1,2 +1,2 @@
-### matplotlib-challenge
-###### The Power of Plots
+### matplotlib-challenge - The Power of Plots
+
